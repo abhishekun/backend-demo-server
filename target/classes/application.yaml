@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path: /demo
+    
+skills:
+  path: /opt/lib/configs/skills_file.csv
